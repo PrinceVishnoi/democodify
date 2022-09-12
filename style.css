@@ -1,0 +1,31 @@
+.btn{
+      background-color: red;
+      color: white;
+      width: 150px;
+      height: 40px;
+      margin-left:1050px;
+      border-radius: 10px;
+}
+
+    @media only screen and (min-width: 300px){
+       .btn {
+    margin-left: 47px;
+       }
+}
+/* Bottom left text */
+.bottom-left {
+      position: absolute;
+      top: 138px;
+      left: 41px;
+      color: white;
+      font-family: sans-serif;
+      font-size: xx-large;
+      width:95%;
+       direction:left;
+       height:50px;
+  }
+  .marquee{
+margin-top: 10px;
+font-size: xx-large;
+color: red;
+  }
